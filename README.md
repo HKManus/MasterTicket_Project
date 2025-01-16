@@ -8,7 +8,7 @@ MasterTicket is a comprehensive QR Code ticket management system designed to mak
 - Generates unique QR code tickets for each participant by importing a participant list
 - Creates a spreadsheet with embedded QR codes, facilitating easy email distribution of e-tickets through mail merge
 
-2. [MasterTicket_Scanner](https://github.com/HKManus/MasterTicket_Scanner): for Ticket Scanning and Validation
+2. [MasterTicket Scanner](https://github.com/HKManus/MasterTicket_Scanner): for Ticket Scanning and Validation
 - Provides a QR code scanner application for verifying ticket authenticity
 - Checks ticket details including participant name and entry timestamp
 - Prevents duplicate entries by tracking and blocking multiple scans of the same ticket
