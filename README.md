@@ -1,6 +1,6 @@
 # MasterTicket Project
 
-MasterTicket
+![Screenshot](/READMEFILE/header_image.png)
 
 MasterTicket is a comprehensive QR Code ticket management system designed to make implementing QR Code ticket in any events easy. The project is composed of two key components:
 
